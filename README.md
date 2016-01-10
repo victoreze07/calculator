@@ -4,6 +4,7 @@ Simple Calculator using maven and java
 Instruction about runnung this project
 
 (1) build this project using maven using command "mvn clean package"
+
 (2) run any of the following commnd from command prompt.Second parameter can be "warn", "info" or "debug". 
 If you are not providing second parameter it will take "debug" by default
 
