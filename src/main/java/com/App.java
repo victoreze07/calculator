@@ -48,6 +48,7 @@ public class App {
         		String exp = args[0];
                 App c = new App();
                 System.out.println("Result: "+ c.calculate(exp.trim(), null));
+				System.out.println("Hi");
         	}
         	else
         		System.out.println("Please provide input. First argument is expression. Second argument can be warn, info or debug.Second argument is optional.");
